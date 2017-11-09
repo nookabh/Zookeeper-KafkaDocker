@@ -1,9 +1,9 @@
 # docker-zookeeper
 
-The image is already available directly from [Verizon Artifactory]
--Login : `docker login oneartifactory.verizon.com:445`
+The image is already available directly from [vz Artifactory]
+-Login : `docker login oneartifactory.vz.com:445`
 ```
-docker pull oneartifactory.verizon.com:445/f18v_sfdc/zookeeper:latest
+docker pull oneartifactory.vz.com:445/f18v_sfdc/zookeeper:latest
 ```
 
 ## Usage
