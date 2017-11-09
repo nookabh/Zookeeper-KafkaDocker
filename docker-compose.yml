@@ -1,0 +1,6 @@
+zookeeper:
+ image: oneartifactory.verizon.com:445/f18v_sfdc/zookeeper:latest
+
+ ports:
+   - 2181:2181
+
